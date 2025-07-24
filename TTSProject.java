@@ -3,7 +3,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 /** 
- * @author Alvinho Rodrigues Ing das Neves (Help of CHAT GPT)
+ * @author Alvinho Rodrigues Ing das Neves 
  * 
  * 
  * 
